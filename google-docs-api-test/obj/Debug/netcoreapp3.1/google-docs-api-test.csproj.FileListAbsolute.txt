@@ -1,4 +1,0 @@
-F:\Documents\Coding\C#\eco-db-backend\google-docs-api-test\bin\Debug\netcoreapp3.1\google-docs-api-test.exe
-F:\Documents\Coding\C#\eco-db-backend\google-docs-api-test\obj\Debug\netcoreapp3.1\google-docs-api-test.csprojAssemblyReference.cache
-F:\Documents\Coding\C#\eco-db-backend\google-docs-api-test\obj\Debug\netcoreapp3.1\google-docs-api-test.AssemblyInfoInputs.cache
-F:\Documents\Coding\C#\eco-db-backend\google-docs-api-test\obj\Debug\netcoreapp3.1\google-docs-api-test.AssemblyInfo.cs
